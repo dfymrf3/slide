@@ -1,15 +1,2 @@
-asyncio
-json
-os
-random
-re
-math
-datetime, date, timedelta
-Bot, Dispatcher, types, F
-aiogram.filters import Command
-aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
-aiogram.fsm.context import FSMContext
-aiogram.fsm.state import State, StatesGroup
-aiogram.fsm.storage.memory import MemoryStorage
-
-apscheduler.schedulers.asyncio import AsyncIOScheduler
+aiogram
+apscheduler
